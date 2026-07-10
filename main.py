@@ -819,7 +819,7 @@ elif selected_day == '4일차 : 7월 9일(목)':
     with tab_assignment2:
         st.header('4일차 실습과제2')
 
-elif selected_day == '5일차 : 7월 10일(수)':
+elif selected_day == '5일차 : 7월 10일(금)':
     with tab_practice:
         st.header('5일차 실습예제')
         import math
